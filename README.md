@@ -38,4 +38,11 @@ Proyek ini dibagi menjadi dua file terpisah untuk menjaga prinsip modularitas[ci
    ```bash
    git clone [https://github.com/username-kamu/Calorie-Tracker.git](https://github.com/username-kamu/Calorie-Tracker.git)
 Buka terminal/CMD di dalam folder tersebut, lalu jalankan file utama:Bashpython main_2.py
-👨‍💻 AuthorNama : Renaldi Pasapan   NIM : 20255520009[cite: 3]Program Studi : Informatika[cite: 3]Universitas : Universitas Matana[cite: 3]
+
+> ### 👨‍💻 Informasi Pengembang
+> | Atribut | Keterangan |
+> | :--- | :--- |
+> | **Nama** | Renaldi Pasapan[cite: 3] |
+> | **NIM** | `20255520009`[cite: 3] |
+> | **Program Studi** | Informatika[cite: 3] |
+> | **Institusi** | Universitas Matana[cite: 3] |
